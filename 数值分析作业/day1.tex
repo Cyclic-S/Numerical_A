@@ -1,0 +1,38 @@
+\section{第一周数值分析实验}
+\subsection{第一节:级数求和与二元函数绘图}
+\begin{ex}
+编程求$\sum_{n=1}^{12}{n!}$的值.
+\end{ex}
+\lstinputlisting[language=matlab]{day1/section1.m}
+\begin{ex}
+绘制二元函数图像.
+$$
+f(x,y)=x^4-2x^2y+x^2-2xy+2y^2+\frac{9}{2}x-4y+4\,\,\,\,\left( -2\le x\le 3,-1\le y\le 7 \right) 
+$$
+\end{ex}
+\lstinputlisting[language=matlab]{day1/section2.m}
+\subsection{第二节:积分递推公式}
+\begin{ex}
+	计算$I_n=e^{-1}\int_0^1{x^ne^xdx},(n=0,1,2,\cdots)$并估计误差
+	
+	方法1:利用递推公式 (A)
+	$$
+	\left( A \right) \text{ }\left\{ \begin{array}{l}
+		I_n=1-nI_{n-1},\text{ }n=1,2,\cdots ,20\\
+		I_0=1-e^{-1}\approx 0.6321.\\
+	\end{array} \right. 
+	$$
+	
+	方法2:利用递推公式 (B)
+	$$
+	\left( B \right) \left\{ \begin{array}{l}
+		\widetilde{I_{20}}=?;\\
+		\widetilde{I}_{n-1}=\frac{1}{n}\left( 1-\widetilde{I_n} \right) ,\text{ \,\,}n=19,\cdots ,9,8,\cdots 0.\\
+	\end{array} \right. 
+	$$
+\end{ex}
+\lstinputlisting[language=matlab]{day1/section3.m}
+\begin{ex}
+	计算$I_n=\int_0^1{\frac{x^n}{x+5}dx},(n=0,1,2,\cdots 20)$并估计误差.
+\end{ex}
+\lstinputlisting[language=matlab]{day1/section4.m}

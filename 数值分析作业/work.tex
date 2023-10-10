@@ -1,0 +1,68 @@
+\documentclass[11pt]{ctexart}
+\usepackage[toc]{multitoc}%目录两栏
+\usepackage{mathrsfs}
+\usepackage{color}
+\usepackage{titlesec}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{amsmath}  
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{appendix}
+\usepackage{float}%设置图片浮动位置的宏包
+\usepackage{subfig}%插入多图时用子图显示的宏包
+\title{数值分析作业}
+\author{CY.SP}
+\date{\today}
+\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+\titleformat{\section}[block]{\centering\Large\bfseries}{\thesection}{1em}{}
+\DeclareMathOperator{\li}{li}
+\DeclareMathOperator{\sgn}{sgn}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\dx}{\mathrm{d}x}
+\newcommand{\ad}{\textbf{附注}$\quad$}
+\newcommand{\diam}{\mathrm{diam}}
+\renewcommand{\qed}{\hfill\blacksquare}
+\newcommand{\qedwhite}{\hfill \ensuremath{\Box}}
+\numberwithin{equation}{subsection}
+\newtheorem{theorem}{\hspace{2em}Theorem}[subsection]
+\newtheorem{lemma}{\hspace{2em}Lemma}[subsection]
+\newtheorem{definition}{\hspace{2em}Definition}[subsection]
+\newtheorem{code}{\textbf{Code}}[subsection]
+\newtheorem{ex}{\hspace{2em}Q}[subsection]
+\usepackage{fontspec}
+\usepackage{listings}  % 引入 listings 包
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\lstset{
+	frame=trbl,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=true,
+	breaklines=true,
+	columns=flexible,
+	framerule=1pt,
+	rulecolor=\color{gray},
+	backgroundcolor=\color{white},
+	basicstyle={\ttfamily},
+	numbers=left,
+	numbersep=1em,
+	numberstyle=\color{black},
+	keywordstyle=\color{blue},
+	commentstyle=\color{gray},
+	stringstyle=\color{mauve},
+	tabsize=3,
+}
+\begin{document}
+	\maketitle
+	\tableofcontents
+	\everymath{\displaystyle}
+	\clearpage
+	\include{day1}
+	\include{day2}
+	\include{day3}
+	\include{day4}
+	\include{day5}
+	\include{day6}
+\end{document}
