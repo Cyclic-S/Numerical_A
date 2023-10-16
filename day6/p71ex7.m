@@ -1,4 +1,4 @@
-%% P71eg7
+%% P71ex7
 syms x;
 f=exp(x);
 S=0;
