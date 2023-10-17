@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9) (preloaded format=xelatex 2023.9.23)  16 OCT 2023 20:00
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9) (preloaded format=xelatex 2023.9.23)  17 OCT 2023 13:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -945,26 +945,41 @@ File: day5/fig.eps Graphic file (type eps)
 \openout2 = `day6.aux'.
 
  (day6.tex
-(day6/legendremap.m) (day6/p71ex7.m) [15
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (day6/schmidt.wl)
+File: day6/fig.png Graphic file (type bmp)
+<day6/fig.png>
+
+[15
 
 
 
-]) [16] (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.
-aux))
+] (day6/legendremap.m) [16] (day6/p71ex7.m)) [17] (work.aux (day1.aux)
+(day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `work.out' has not changed.
-(rerunfilecheck)             Checksum: 724F3C0528FC7FCEA8AA78AA1E4F3D07;2917.
+(rerunfilecheck)             Checksum: B7D9FFFEABF68D52AC7FACD01FCF7E8F;3239.
  ) 
 Here is how much of TeX's memory you used:
- 20653 strings out of 410378
- 414714 string characters out of 5792293
- 2118416 words of memory out of 5000000
- 41605 multiletter control sequences out of 15000+600000
- 567227 words of font info for 105 fonts, out of 8000000 for 9000
+ 28246 strings out of 410378
+ 562862 string characters out of 5792293
+ 2426917 words of memory out of 5000000
+ 49183 multiletter control sequences out of 15000+600000
+ 567243 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,10n,97p,543b,1819s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,10n,97p,543b,8644s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on work.pdf (16 pages).
+Output written on work.pdf (17 pages).
