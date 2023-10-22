@@ -24,3 +24,4 @@
 \contentsline {subsection}{\numberline {6.1}Gram-Schmidt正交化}{15}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}直接法-Legendre多项式}{15}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}递推法-Legendre多项式}{16}{subsection.6.3}%
+\contentsline {section}{\numberline {7}第七周数值分析实验}{18}{section.7}%
