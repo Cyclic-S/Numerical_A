@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.10.22)  22 OCT 2023 19:10
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.10.22)  23 OCT 2023 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -956,18 +956,22 @@ File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
-) (day6/schmidt.wl)
-File: day6/fig.png Graphic file (type bmp)
-<day6/fig.png>
+)
+(day6/schmidtlegendre.wl)
+File: day6/fig1.png Graphic file (type bmp)
+<day6/fig1.png>
+ [15
 
-[15
 
 
-
-] (day6/legendremap.m) [16] (day6/p71ex7.m)) [17]
+] (day6/schmidtchebyshev.wl)
+File: day6/fig2.png Graphic file (type bmp)
+<day6/fig2.png>
+ [16]
+(day6/legendremap.m) [17] (day6/p71ex7.m)) [18]
 \openout2 = `day7.aux'.
 
- (day7.tex) [18
+ (day7.tex) [19
 
 
 
@@ -978,15 +982,15 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `work.out' has not changed.
-(rerunfilecheck)             Checksum: CE06A2FBA3DD505466092A0A090DD490;3355.
+(rerunfilecheck)             Checksum: 9B0ECD581464E035C8F54380309C0D12;3511.
  ) 
 Here is how much of TeX's memory you used:
- 28270 strings out of 409954
- 563312 string characters out of 5785456
- 2429852 words of memory out of 5000000
- 49624 multiletter control sequences out of 15000+600000
+ 28284 strings out of 409954
+ 563685 string characters out of 5785456
+ 2542459 words of memory out of 5000000
+ 49635 multiletter control sequences out of 15000+600000
  567243 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,10n,97p,543b,8644s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on work.pdf (18 pages).
+Output written on work.pdf (19 pages).
