@@ -25,11 +25,9 @@ f2=collect(subs(f,x1),t);%t\in [-1,1]
 c=coeffs(f2);
 P_3=f2-c(end)*T_4;
 t=(2*x-a-b)/(b-a);
-P=subs(P_3,t);
+P=subs(P_3,t)
 hold on
-fplot(P,[a b]);
-legend({'$B_1(f,x)$','$B_2(f,x)$','$B_3(f,x)$','$f(x)$','$P_3^*(x)$'},'Interpreter','latex');
-
+fplot(P);
 
 
 
