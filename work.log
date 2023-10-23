@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.10.22)  23 OCT 2023 23:14
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.10.22)  23 OCT 2023 23:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -981,27 +981,28 @@ File: day7/q1fig1.eps Graphic file (type eps)
 <day7/q1fig1.eps>
 File: day7/q1fig2.eps Graphic file (type eps)
 <day7/q1fig2.eps>
- (day7/q2.m [20])
+ (day7/q2.m [20]) (day7/legendremap.m [21]) (day7/q2s2.m)
 File: day7/q2fig1.eps Graphic file (type eps)
 <day7/q2fig1.eps>
-File: day7/q2fig1.eps Graphic file (type eps)
-<day7/q2fig1.eps>
-) [21] [22] (work.aux (day1.aux) (day2.aux) (day3.aux)
-(day4.aux) (day5.aux) (day6.aux) (day7.aux))
+File: day7/q2fig2.eps Graphic file (type eps)
+<day7/q2fig2.eps>
+) [22] [23]
+(work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux)
+(day7.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `work.out' has not changed.
-(rerunfilecheck)             Checksum: A95035DECD23B3AE577C244FAE41F2B6;3675.
+(rerunfilecheck)             Checksum: A7741B88F907C6355B2A929D3212D58D;4064.
  ) 
 Here is how much of TeX's memory you used:
- 28343 strings out of 409954
- 564559 string characters out of 5785456
- 2542462 words of memory out of 5000000
- 49676 multiletter control sequences out of 15000+600000
+ 28361 strings out of 409954
+ 564897 string characters out of 5785456
+ 2543465 words of memory out of 5000000
+ 49688 multiletter control sequences out of 15000+600000
  569770 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,10n,97p,543b,8644s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on work.pdf (22 pages).
+Output written on work.pdf (23 pages).

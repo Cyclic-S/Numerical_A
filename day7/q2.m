@@ -1,6 +1,6 @@
 clc
 clear
-syms x t x1
+syms x t
 a=0;
 b=1;
 f=2*x^4-3*x^3+2*x-1;
