@@ -8,7 +8,7 @@ A=newtonmatrix(X,Y);%均差表
 for h=2:length(X)
     y=y+A(h,h+1)*prod(x-X(1:h-1));
 end
-y=collect(y,x)%合并化简
+y=collect(y,x);%合并化简
 T=0.35:0.01:1.10;
 f=matlabFunction(y);
 plot(T,f(T));

@@ -14,10 +14,11 @@ for n=0:2
 end
 % 递推函数法求Legendre多项式
 % for n=0:2
-%     S=(2*n+1)/2*int(f1*legendremap(n),-1,1)*legendremap(n)+S;
+%     S=(2*n+1)/2*int(f1*legendremap(n),-1,1)*legendremap(n)+S;%调用自定义函数
 % end
 t=(2*x-a-b)/(b-a);
 S=subs(S,t);
+S=collect(S,x);
 fplot(S,[a b]);
 hold on
 fplot(f,[a b]);

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.10.22)  24 OCT 2023 12:33
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.10.22)  24 OCT 2023 21:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -873,8 +873,8 @@ File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 6.
- (day1/section1.m)
-(day1/section2.m)
+ (day1/work1q1.m)
+(day1/work1q2.m)
 Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman8-italic]:mapping=tex-text;!
@@ -887,15 +887,14 @@ Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman8-italic]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman7-italic]:mapping=tex-text;!
-(day1/section3.m
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.95> not availabl
 e
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
-3.
- [2
+34.
+[2
 
 
-]) (day1/section4.m [3])) [4]
+] (day1/work1q3.m) (day1/work1q4.m [3])) [4]
 \openout2 = `day2.aux'.
 
  (day2.tex (day2/Vslove.m)
@@ -934,11 +933,11 @@ File: day3/newton.eps Graphic file (type eps)
 [11])) [12]
 \openout2 = `day5.aux'.
 
- (day5.tex (day5/bernstein_n.m) (day5/main.m [13
+ (day5.tex (day5/bernstein_n.m) (day5/work6.m) [13
 
 
 
-])
+]
 File: day5/fig.eps Graphic file (type eps)
 <day5/fig.eps>
 ) [14]
@@ -971,7 +970,7 @@ File: day6/fig2.png Graphic file (type bmp)
 (day6/legendremap.m) [17] (day6/p71ex7.m)) [18]
 \openout2 = `day7.aux'.
 
- (day7.tex (day7/chebyshev.m
+ (day7.tex (day7/work8q1.m
 [19
 
 
@@ -981,13 +980,13 @@ File: day7/q1fig1.eps Graphic file (type eps)
 <day7/q1fig1.eps>
 File: day7/q1fig2.eps Graphic file (type eps)
 <day7/q1fig2.eps>
- (day7/q2.m [20]) (day7/q2s2.m [21])
+ (day7/work8q2.m [20]) (day7/work8q2s2.m [21])
 File: day7/q2fig1.eps Graphic file (type eps)
 <day7/q2fig1.eps>
 File: day7/q2fig2.eps Graphic file (type eps)
 <day7/q2fig2.eps>
-) [22] (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.a
-ux) (day7.aux))
+) [22] (work.aux (day1.aux)
+(day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux) (day7.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -996,10 +995,10 @@ Package rerunfilecheck Info: File `work.out' has not changed.
 (rerunfilecheck)             Checksum: A7741B88F907C6355B2A929D3212D58D;4064.
  ) 
 Here is how much of TeX's memory you used:
- 28357 strings out of 409954
- 564788 string characters out of 5785456
+ 28356 strings out of 409954
+ 564801 string characters out of 5785456
  2542465 words of memory out of 5000000
- 49686 multiletter control sequences out of 15000+600000
+ 49684 multiletter control sequences out of 15000+600000
  569770 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,10n,97p,543b,8644s stack positions out of 10000i,1000n,20000p,200000b,200000s

@@ -11,6 +11,8 @@ for n=1:N-1
     IA(n+1)=1-(n+1)*IA(n);% k from 1 to 20
     EA(n+1)=n*EA(n);
 end
+disp(IA);
+disp(EA);
 %% Equation 第二种递推方式
 clc
 clear
@@ -23,3 +25,5 @@ for n=N:-1:2
     IB(n-1)=1/n*(1-IB(n));% k from 1 to 20
     EB(n-1)=1/n*EB(n);
 end
+disp(IB);
+disp(EB);
