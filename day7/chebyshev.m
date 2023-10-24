@@ -31,11 +31,11 @@ for i=1:length(N)
     end
     Y(i)=collect(s1,x);
     % 绘图
-    %fplot(Y(i));%Lagrange插值多项式图像
-    fplot(f-Y(i));%误差曲线
+    fplot(Y(i));%Lagrange插值多项式图像
+    % fplot(f-Y(i));%误差曲线
     hold on
 end
-%legend({'$L_{10}(x)$','$L_{14}(x)$','$L_{20}(x)$'},'Interpreter','latex');
-legend({'$f(x)-L_{10}(x)$','$f(x)-L_{14}(x)$','$f(x)-L_{20}(x)$'},'Interpreter','latex');
+legend({'$L_{10}(x)$','$L_{14}(x)$','$L_{20}(x)$'},'Interpreter','latex');
+% legend({'$f(x)-L_{10}(x)$','$f(x)-L_{14}(x)$','$f(x)-L_{20}(x)$'},'Interpreter','latex');
 
 
