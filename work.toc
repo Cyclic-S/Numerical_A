@@ -30,3 +30,6 @@
 \contentsline {subsection}{\numberline {7.2}最佳一致逼近与最佳平方逼近}{20}{subsection.7.2}%
 \contentsline {subsubsection}{\numberline {7.2.1}最佳一致逼近}{20}{subsubsection.7.2.1}%
 \contentsline {subsubsection}{\numberline {7.2.2}最佳平方逼近}{21}{subsubsection.7.2.2}%
+\contentsline {section}{\numberline {8}第九周数值分析实验}{23}{section.8}%
+\contentsline {subsection}{\numberline {8.1}正交函数族最佳平方逼近}{23}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}最小二乘拟合}{24}{subsection.8.2}%
