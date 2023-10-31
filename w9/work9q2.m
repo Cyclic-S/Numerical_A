@@ -83,4 +83,4 @@ y=collect(y,x);
 fplot(y,[min(X) max(X)]);
 hold on
 plot(X,Y,'ro');
-legend({'二次拟合多项式曲线','实验数据'});
+legend({'三次拟合多项式曲线','实验数据'});
