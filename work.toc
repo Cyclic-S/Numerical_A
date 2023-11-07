@@ -33,3 +33,6 @@
 \contentsline {section}{\numberline {8}第九周数值分析实验}{23}{section.8}%
 \contentsline {subsection}{\numberline {8.1}正交函数族最佳平方逼近}{23}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}最小二乘拟合}{24}{subsection.8.2}%
+\contentsline {section}{\numberline {9}第十周数值分析中期练习}{28}{section.9}%
+\contentsline {subsection}{\numberline {9.1}三次插值}{28}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}最小二乘法}{28}{subsection.9.2}%
