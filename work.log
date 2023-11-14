@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.10.22)  7 NOV 2023 13:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.10.22)  14 NOV 2023 12:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -731,7 +731,7 @@ Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
 \l__xeCJK_listings_flag_int=\count360
 )
 (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux)
-(day7.aux) (w9.aux) (w10.aux))
+(day7.aux) (w9.aux) (w10.aux) (w11.aux))
 \openout1 = `work.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
@@ -1080,23 +1080,31 @@ File: w10/fig.pdf Graphic file (type pdf)
 <use w10/fig.pdf, page 1>
 File: w10/fig.pdf Graphic file (type pdf)
 <use w10/fig.pdf, page 1>
- [32]) (work.aux (day1.aux)
-(day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux) (day7.aux) (w9.aux)
-(w10.aux))
+ [32])
+\openout2 = `w11.aux'.
+
+ (w11.tex
+(w11/NewtonCotesIntegration.m) [33
+
+
+
+] (w11/q2.m) [34] (w11/q3.m)) [35] (work.aux
+(day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux) (day7.aux)
+(w9.aux) (w10.aux) (w11.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `work.out' has not changed.
-(rerunfilecheck)             Checksum: E8F233BDF057DB989DAEB68A643364AA;4752.
+(rerunfilecheck)             Checksum: 2E021F8462ADE711B6231520C0368404;5001.
  ) 
 Here is how much of TeX's memory you used:
- 29295 strings out of 409954
- 580769 string characters out of 5785456
- 2557557 words of memory out of 5000000
- 50564 multiletter control sequences out of 15000+600000
+ 29363 strings out of 409954
+ 582448 string characters out of 5785456
+ 2558244 words of memory out of 5000000
+ 50616 multiletter control sequences out of 15000+600000
  572062 words of font info for 130 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,17n,97p,543b,8646s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on work.pdf (32 pages).
+Output written on work.pdf (35 pages).

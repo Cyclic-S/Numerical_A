@@ -36,3 +36,5 @@
 \contentsline {section}{\numberline {9}第十周数值分析中期练习}{28}{section.9}%
 \contentsline {subsection}{\numberline {9.1}三次插值}{28}{subsection.9.1}%
 \contentsline {subsection}{\numberline {9.2}最小二乘法}{28}{subsection.9.2}%
+\contentsline {section}{\numberline {10}第十一周数值分析实验}{33}{section.10}%
+\contentsline {subsection}{\numberline {10.1}牛顿一科特斯积分}{33}{subsection.10.1}%
