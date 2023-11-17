@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.10.22)  14 NOV 2023 12:48
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.10.22)  17 NOV 2023 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1088,9 +1088,15 @@ File: w10/fig.pdf Graphic file (type pdf)
 
 
 
-] (w11/q2.m) [34] (w11/q3.m)) [35] (work.aux
-(day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux) (day7.aux)
-(w9.aux) (w10.aux) (w11.aux))
+] (w11/q2.m) [34]
+File: w11/fig.png Graphic file (type bmp)
+<w11/fig.png>
+ (w11/q3.m [35])
+File: w11/fig.eps Graphic file (type eps)
+<w11/fig.eps>
+) [36]
+(work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux)
+(day7.aux) (w9.aux) (w10.aux) (w11.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1099,12 +1105,12 @@ Package rerunfilecheck Info: File `work.out' has not changed.
 (rerunfilecheck)             Checksum: 2E021F8462ADE711B6231520C0368404;5001.
  ) 
 Here is how much of TeX's memory you used:
- 29363 strings out of 409954
- 582448 string characters out of 5785456
- 2558244 words of memory out of 5000000
- 50616 multiletter control sequences out of 15000+600000
+ 29394 strings out of 409954
+ 582804 string characters out of 5785456
+ 2558245 words of memory out of 5000000
+ 50647 multiletter control sequences out of 15000+600000
  572062 words of font info for 130 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,17n,97p,543b,8646s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on work.pdf (35 pages).
+Output written on work.pdf (36 pages).
