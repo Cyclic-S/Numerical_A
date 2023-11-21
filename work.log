@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.17)  17 NOV 2023 23:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.17)  21 NOV 2023 12:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -731,7 +731,7 @@ Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
 \l__xeCJK_listings_flag_int=\count361
 )
 (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux)
-(day7.aux) (w9.aux) (w10.aux) (w11.aux))
+(day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux))
 \openout1 = `work.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
@@ -909,23 +909,27 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-)
+ [1
+
+])
 \tf@toc=\write4
 \openout4 = `work.toc'.
 
- [1
-
-]
+LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.95> not availabl
+e
+(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
+63.
+ [2]
 \openout2 = `day1.aux'.
 
- (day1.tex
-(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+
+(day1.tex (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 6.
- (day1/work1q1.m)
-(day1/work1q2.m)
+
+(day1/work1q1.m) (day1/work1q2.m)
 Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman8-italic]:mapping=tex-text;!
@@ -938,18 +942,14 @@ Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman8-italic]:mapping=tex-text;!
 Missing character: There is no   in font [lmroman7-italic]:mapping=tex-text;!
-LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.95> not availabl
-e
-(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
-34.
-[2
+[3
 
 
-] (day1/work1q3.m) (day1/work1q4.m [3])) [4]
+] (day1/work1q3.m) (day1/work1q4.m [4])) [5]
 \openout2 = `day2.aux'.
 
  (day2.tex (day2/Vslove.m)
-(day2/lagrangeslove.m [5
+(day2/lagrangeslove.m [6
 
 
 
@@ -958,8 +958,8 @@ File: day2/fig1.eps Graphic file (type eps)
 <day2/fig1.eps>
 File: day2/fig2.eps Graphic file (type eps)
 <day2/fig2.eps>
-) [6]
-[7]
+) [7]
+[8]
 \openout2 = `day3.aux'.
 
  (day3.tex (day3/newtonmatrix.m)
@@ -968,30 +968,30 @@ LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
  (day3/main.m)
 File: day3/newton.eps Graphic file (type eps)
 <day3/newton.eps>
- [8
+ [9
 
 
 
-]) [9]
+]) [10]
 \openout2 = `day4.aux'.
 
  (day4.tex
-(day4/hermite33.m) (day4/main33.m [10
+(day4/hermite33.m) (day4/main33.m [11
 
 
 
 ]) (day4/hermite23.m) (day4/main23.m
-[11])) [12]
+[12])) [13]
 \openout2 = `day5.aux'.
 
- (day5.tex (day5/bernstein_n.m) (day5/work6.m) [13
+ (day5.tex (day5/bernstein_n.m) (day5/work6.m) [14
 
 
 
 ]
 File: day5/fig.eps Graphic file (type eps)
 <day5/fig.eps>
-) [14]
+) [15]
 \openout2 = `day6.aux'.
 
  (day6.tex
@@ -1010,19 +1010,19 @@ File: lstlang1.sty 2023/02/27 1.9 listings language file
 (day6/schmidtlegendre.wl)
 File: day6/fig1.png Graphic file (type bmp)
 <day6/fig1.png>
- [15
+ [16
 
 
 
 ] (day6/schmidtchebyshev.wl)
 File: day6/fig2.png Graphic file (type bmp)
 <day6/fig2.png>
- [16]
-(day6/legendremap.m) [17] (day6/p71ex7.m)) [18]
+ [17]
+(day6/legendremap.m) [18] (day6/p71ex7.m)) [19]
 \openout2 = `day7.aux'.
 
  (day7.tex (day7/work8q1.m
-[19
+[20
 
 
 
@@ -1031,23 +1031,23 @@ File: day7/q1fig1.eps Graphic file (type eps)
 <day7/q1fig1.eps>
 File: day7/q1fig2.eps Graphic file (type eps)
 <day7/q1fig2.eps>
- (day7/work8q2.m [20]) (day7/work8q2s2.m [21])
+ (day7/work8q2.m [21]) (day7/work8q2s2.m [22])
 File: day7/q2fig1.eps Graphic file (type eps)
 <day7/q2fig1.eps>
 File: day7/q2fig2.eps Graphic file (type eps)
 <day7/q2fig2.eps>
-) [22]
+) [23]
 \openout2 = `w9.aux'.
 
  (w9.tex
-(w9/legendremap.m) (w9/work9q1.m [23
+(w9/legendremap.m) (w9/work9q1.m [24
 
 
 
 ])
 File: w9/figq1.eps Graphic file (type eps)
 <w9/figq1.eps>
- (w9/work9q2.m [24] [25] [26])
+ (w9/work9q2.m [25] [26] [27])
 File: w9/figq21.eps Graphic file (type eps)
 <w9/figq21.eps>
 File: w9/figq22.eps Graphic file (type eps)
@@ -1056,15 +1056,15 @@ File: w9/figq2c1.eps Graphic file (type eps)
 <w9/figq2c1.eps>
 File: w9/figq2c2.eps Graphic file (type eps)
 <w9/figq2c2.eps>
-) [27]
+) [28]
 \openout2 = `w10.aux'.
 
 
-(w10.tex (w10/q1.m) (w10/q2.m [28
+(w10.tex (w10/q1.m) (w10/q2.m [29
 
 
 
-] [29] [30])
+] [30] [31])
 File: w10/fig.pdf Graphic file (type pdf)
 <use w10/fig.pdf>
 File: w10/fig.pdf Graphic file (type pdf)
@@ -1073,44 +1073,52 @@ File: w10/fig.pdf Graphic file (type pdf)
 <use w10/fig.pdf, page 1>
 File: w10/fig.pdf Graphic file (type pdf)
 <use w10/fig.pdf, page 1>
- [31]
+ [32]
 File: w10/fig.pdf Graphic file (type pdf)
 <use w10/fig.pdf, page 1>
 File: w10/fig.pdf Graphic file (type pdf)
 <use w10/fig.pdf, page 1>
 File: w10/fig.pdf Graphic file (type pdf)
 <use w10/fig.pdf, page 1>
- [32])
+ [33])
 \openout2 = `w11.aux'.
 
  (w11.tex
-(w11/NewtonCotesIntegration.m) [33
+(w11/NewtonCotesIntegration.m) [34
 
 
 
-] (w11/q2.m) [34]
+] (w11/q2.m) [35]
 File: w11/fig.png Graphic file (type bmp)
 <w11/fig.png>
- (w11/q3.m [35])
+ (w11/q3.m [36])
 File: w11/fig.eps Graphic file (type eps)
 <w11/fig.eps>
-) [36]
-(work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux)
-(day7.aux) (w9.aux) (w10.aux) (w11.aux))
+) [37]
+\openout2 = `w12.aux'.
+
+
+(w12.tex (w12/q1.m [38
+
+
+
+]) (w12/q2.m) (w12/q3.m [39])) [40] (work.aux (day1.aux)
+(day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux) (day7.aux) (w9.aux)
+(w10.aux) (w11.aux) (w12.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `work.out' has not changed.
-(rerunfilecheck)             Checksum: 2E021F8462ADE711B6231520C0368404;5001.
+(rerunfilecheck)             Checksum: ABF1BC43D4C2413A2C80133D73AE1750;5621.
  ) 
 Here is how much of TeX's memory you used:
- 29424 strings out of 409717
- 583906 string characters out of 5780201
- 2567319 words of memory out of 5000000
- 50914 multiletter control sequences out of 15000+600000
+ 29481 strings out of 409717
+ 585360 string characters out of 5780201
+ 2568017 words of memory out of 5000000
+ 50957 multiletter control sequences out of 15000+600000
  572062 words of font info for 130 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,17n,97p,543b,8647s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on work.pdf (36 pages).
+Output written on work.pdf (40 pages).

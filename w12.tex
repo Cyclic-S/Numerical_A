@@ -1,0 +1,21 @@
+\section{第十二周数值分析实验}
+\subsection{复合梯形公式与复合Simpson公式}
+\begin{ex}
+	试用复合梯形公式、复合辛普森公式 $(n=4,8,16,32,64)$ 求解积分
+	$$
+	I=\int_0^5 x^5 e^{-x} \sin x d x
+	$$
+	
+	已知精确值 $-e^{-5}(3660 \cos 5+487.5 \sin 5)-15 \approx-18.8455351153$.
+\end{ex}
+\lstinputlisting[language=matlab]{w12/q1.m}
+\subsection{高斯一勒让德求积公式}
+\begin{ex}
+	试用$5$个节点的高斯一勒让德求积公式计算上例.
+\end{ex}
+\lstinputlisting[language=matlab]{w12/q2.m}
+\subsection{复合型的高斯一勒让德求积公式}
+\begin{ex}
+	试用复合型的高斯一勒让德求积公式计算上例, 其中区间做 $n(n=5,10)$ 等份,每个小区间上使用$2$个节点的 $G-L$ 公式.
+\end{ex}
+\lstinputlisting[language=matlab]{w12/q3.m}
