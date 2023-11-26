@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.17)  21 NOV 2023 12:44
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.17)  26 NOV 2023 12:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -995,10 +995,13 @@ File: day5/fig.eps Graphic file (type eps)
 \openout2 = `day6.aux'.
 
  (day6.tex
-(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+(day6/Schmidt1.m) [16
+
+
+
+] (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
-)
-(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+) (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
@@ -1010,19 +1013,14 @@ File: lstlang1.sty 2023/02/27 1.9 listings language file
 (day6/schmidtlegendre.wl)
 File: day6/fig1.png Graphic file (type bmp)
 <day6/fig1.png>
- [16
-
-
-
-] (day6/schmidtchebyshev.wl)
+ (day6/schmidtchebyshev.wl [17])
 File: day6/fig2.png Graphic file (type bmp)
 <day6/fig2.png>
- [17]
-(day6/legendremap.m) [18] (day6/p71ex7.m)) [19]
+ (day6/legendremap.m
+[18])) [19]
 \openout2 = `day7.aux'.
 
- (day7.tex (day7/work8q1.m
-[20
+ (day7.tex (day7/work8q1.m [20
 
 
 
@@ -1031,7 +1029,8 @@ File: day7/q1fig1.eps Graphic file (type eps)
 <day7/q1fig1.eps>
 File: day7/q1fig2.eps Graphic file (type eps)
 <day7/q1fig2.eps>
- (day7/work8q2.m [21]) (day7/work8q2s2.m [22])
+ (day7/work8q2.m [21])
+(day7/work8q2s2.m [22])
 File: day7/q2fig1.eps Graphic file (type eps)
 <day7/q2fig1.eps>
 File: day7/q2fig2.eps Graphic file (type eps)
@@ -1039,15 +1038,15 @@ File: day7/q2fig2.eps Graphic file (type eps)
 ) [23]
 \openout2 = `w9.aux'.
 
- (w9.tex
-(w9/legendremap.m) (w9/work9q1.m [24
+ (w9.tex (w9/legendremap.m) (w9/work9q1.m [24
 
 
 
 ])
 File: w9/figq1.eps Graphic file (type eps)
 <w9/figq1.eps>
- (w9/work9q2.m [25] [26] [27])
+
+(w9/work9q2.m [25] [26] [27])
 File: w9/figq21.eps Graphic file (type eps)
 <w9/figq21.eps>
 File: w9/figq22.eps Graphic file (type eps)
@@ -1059,12 +1058,12 @@ File: w9/figq2c2.eps Graphic file (type eps)
 ) [28]
 \openout2 = `w10.aux'.
 
-
-(w10.tex (w10/q1.m) (w10/q2.m [29
-
+ (w10.tex (w10/q1.m) (w10/q2.m [29
 
 
-] [30] [31])
+
+] [30]
+[31])
 File: w10/fig.pdf Graphic file (type pdf)
 <use w10/fig.pdf>
 File: w10/fig.pdf Graphic file (type pdf)
@@ -1083,12 +1082,12 @@ File: w10/fig.pdf Graphic file (type pdf)
  [33])
 \openout2 = `w11.aux'.
 
- (w11.tex
-(w11/NewtonCotesIntegration.m) [34
+ (w11.tex (w11/NewtonCotesIntegration.m) [34
 
 
 
-] (w11/q2.m) [35]
+] (w11/q2.m)
+[35]
 File: w11/fig.png Graphic file (type bmp)
 <w11/fig.png>
  (w11/q3.m [36])
@@ -1097,26 +1096,25 @@ File: w11/fig.eps Graphic file (type eps)
 ) [37]
 \openout2 = `w12.aux'.
 
-
-(w12.tex (w12/q1.m [38
-
+ (w12.tex (w12/q1.m [38
 
 
-]) (w12/q2.m) (w12/q3.m [39])) [40] (work.aux (day1.aux)
-(day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux) (day7.aux) (w9.aux)
-(w10.aux) (w11.aux) (w12.aux))
+
+]) (w12/q2.m) (w12/q3.m
+[39])) [40] (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux)
+(day6.aux) (day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `work.out' has not changed.
-(rerunfilecheck)             Checksum: ABF1BC43D4C2413A2C80133D73AE1750;5621.
+(rerunfilecheck)             Checksum: BD18B574DB8B688A5B10B19463558060;5691.
  ) 
 Here is how much of TeX's memory you used:
- 29481 strings out of 409717
- 585360 string characters out of 5780201
- 2568017 words of memory out of 5000000
- 50957 multiletter control sequences out of 15000+600000
+ 29482 strings out of 409717
+ 585385 string characters out of 5780201
+ 2570888 words of memory out of 5000000
+ 50958 multiletter control sequences out of 15000+600000
  572062 words of font info for 130 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,17n,97p,543b,8647s stack positions out of 10000i,1000n,20000p,200000b,200000s
