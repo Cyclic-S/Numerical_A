@@ -42,3 +42,6 @@
 \contentsline {subsection}{\numberline {11.1}复合梯形公式与复合Simpson公式}{38}{subsection.11.1}%
 \contentsline {subsection}{\numberline {11.2}高斯一勒让德求积公式}{39}{subsection.11.2}%
 \contentsline {subsection}{\numberline {11.3}复合型的高斯一勒让德求积公式}{39}{subsection.11.3}%
+\contentsline {section}{\numberline {12}第十三周数值分析实验}{41}{section.12}%
+\contentsline {subsection}{\numberline {12.1}矩阵的LU分解}{41}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}矩阵的Cholesky分解}{42}{subsection.12.2}%
