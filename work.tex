@@ -10,6 +10,7 @@
 \usepackage{graphicx}
 \usepackage{appendix}
 \usepackage{pdfpages}
+\usepackage{fancyhdr}%页眉页脚设置
 %\usepackage[stable]{footmisc}
 \usepackage{float}%设置图片浮动位置的宏包
 \usepackage{subfig}%插入多图时用子图显示的宏包
@@ -17,7 +18,7 @@
 \title{数值分析作业\thanks{\href{https://github.com/Cyclic-S/Numerical_A}{Github仓库}}}
 \author{CY.SP}
 \date{\today}
-\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+\geometry{left=3.17cm,right=3.17cm,top=2.54cm,bottom=2.54cm}
 \titleformat{\section}[block]{\centering\Large\bfseries}{\thesection}{1em}{}
 \DeclareMathOperator{\li}{li}
 \DeclareMathOperator{\sgn}{sgn}
@@ -57,11 +58,15 @@
 	stringstyle=\color{mauve},
 	tabsize=3,
 }
+\pagestyle{plain}
 \begin{document}
-	\maketitle
+	\includepdf{pageset/firstpage.pdf}
+	\newpage
+	%\maketitle
 	\tableofcontents
 	\everymath{\displaystyle}
 	\clearpage
+	\ULCornerWallPaper{1}{pageset/coverpage.pdf}
 	\include{day1}
 	\include{day2}
 	\include{day3}
@@ -74,4 +79,6 @@
 	\include{w11}
 	\include{w12}
 	\include{w13}
+	\ClearWallPaper
+	\includepdf[]{pageset/lastpage.pdf}
 \end{document}
