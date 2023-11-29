@@ -37,6 +37,7 @@ for i=1:length(A)
     y=y+A(i)*x^(i-1);
 end
 y=collect(y,x);
+latex(y)
 fplot(y,[min(X) max(X)]);
 hold on
 plot(X,Y,'ro');
@@ -80,6 +81,7 @@ for i=1:length(A)
     y=y+A(i)*x^(i-1);
 end
 y=collect(y,x);
+latex(y)
 fplot(y,[min(X) max(X)]);
 hold on
 plot(X,Y,'ro');

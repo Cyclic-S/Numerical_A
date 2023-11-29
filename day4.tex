@@ -8,11 +8,17 @@
 	\end{itemize}
 \end{ex}
 \subsection{三点三次Hermite插值}
-\lstinputlisting[language=matlab]{day4/hermite33.m}
-\subsubsection{三点三次估计}
-\lstinputlisting[language=matlab]{day4/main33.m}
+\lstinputlisting[language=matlab]{day4/work4h33.m}
+\qa [1.4142, 1.4832, 1.5811]
 \subsection{两点三次Hermite插值}
-\lstinputlisting[language=matlab]{day4/hermite23.m}
-\subsubsection{两点三次估计}
-\lstinputlisting[language=matlab]{day4/main23.m}
+\lstinputlisting[language=matlab]{day4/work4h23.m}
+\qa [1.4142, 1.4833, 1.5811]
+\begin{figure}[H]
+	\centering
+	\subfloat[三点三次Hermite插值]{\includegraphics[width = 0.5\linewidth]{day4/h33.eps}}
+	\hfill
+	\subfloat[两点三次Hermite插值]{\includegraphics[width = 0.5\linewidth]{day4/h23.eps}}
+	\caption{运行结果}
+	\label{fig:day4}
+\end{figure}
 

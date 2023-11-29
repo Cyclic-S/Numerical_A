@@ -14,6 +14,7 @@ for i=1:3
         y=y+f1(k/i)*B_in;
         Y(i)=collect(y);
     end
+    latex(Y(i))
     fplot(Y,[a b]);
 end
 hold on
@@ -26,6 +27,7 @@ c=coeffs(f2);
 P_3=f2-c(end)*T_4;
 t=(2*x-a-b)/(b-a);
 P=subs(P_3,t);
+latex(P)
 hold on
 fplot(P,[a b]);
 legend({'$B_1(f,x)$','$B_2(f,x)$','$B_3(f,x)$','$f(x)$','$P_3^*(x)$'},'Interpreter','latex');

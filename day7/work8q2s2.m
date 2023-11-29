@@ -19,6 +19,7 @@ end
 t=(2*x-a-b)/(b-a);
 S=subs(S,t);
 S=collect(S,x);
+latex(S)
 fplot(S,[a b]);
 hold on
 fplot(f,[a b]);

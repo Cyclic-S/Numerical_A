@@ -30,6 +30,7 @@ for i=1:length(N)
         s1=s1+R(l)*t;
     end
     Y(i)=collect(s1,x);
+    latex(vpa(Y(i),5))
     % 绘图
     fplot(Y(i));%Lagrange插值多项式图像
     % fplot(f-Y(i));%误差曲线

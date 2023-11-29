@@ -29,11 +29,13 @@
 \renewcommand{\qed}{\hfill\blacksquare}
 \newcommand{\qedwhite}{\hfill \ensuremath{\Box}}
 \numberwithin{equation}{subsection}
-\newtheorem{theorem}{\hspace{2em}Theorem}[subsection]
-\newtheorem{lemma}{\hspace{2em}Lemma}[subsection]
-\newtheorem{definition}{\hspace{2em}Definition}[subsection]
+\newtheorem{theorem}{\hspace{2em}定理}[subsection]
+\newtheorem{lemma}{\hspace{2em}引理}[subsection]
+\newtheorem{definition}{\hspace{2em}定义}[subsection]
 \newtheorem{code}{\textbf{Code}}[subsection]
-\newtheorem{ex}{\hspace{2em}Q}[subsection]
+\newtheorem{ex}{\hspace{2em}题}[subsection]
+%\newtheorem{qa}{\hspace{2em}结果}[subsection]
+\newcommand{\qa}{\textbf{结果:}$\quad$}
 \usepackage{fontspec}
 \usepackage{listings}  % 引入 listings 包
 \definecolor{dkgreen}{rgb}{0,0.6,0}

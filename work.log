@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.17)  28 NOV 2023 19:33
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.17)  29 NOV 2023 22:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -758,83 +758,83 @@ Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
 (day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux) (w13.aux))
 \openout1 = `work.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 62.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 62.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 62.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 62.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 62.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 62.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 62.
-LaTeX Font Info:    Redeclaring math accent \check on input line 62.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 62.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 62.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 62.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 62.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 62.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 64.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 64.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 64.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 64.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 64.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 64.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 64.
+LaTeX Font Info:    Redeclaring math accent \check on input line 64.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 64.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 64.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 64.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 64.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 62.
+(Font)              `operators' in the math version `normal' on input line 64.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 62.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 64.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 62.
+(Font)              `operators' in the math version `bold' on input line 64.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 62.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 64.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 62.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 62.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 62.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 62.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 62.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 64.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 62.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 62.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 62.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 64.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 62.
-Package hyperref Info: Link coloring OFF on input line 62.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 64.
+Package hyperref Info: Link coloring OFF on input line 64.
  (work.out)
 (work.out)
 \@outlinefile=\write3
@@ -950,7 +950,7 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-Underfull \hbox (badness 7151) in paragraph at lines 26--26
+Underfull \hbox (badness 7151) in paragraph at lines 22--22
  [][] [][]\TU/lmr/m/n/10.95 Schmidt \TU/SimSun(0)/m/n/10.95 正 交 化\TU/lmr/m/n/10
 .95 -Chebyshev 
  []
@@ -969,44 +969,53 @@ Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 6.
 
 (day1/work1q1.m) (day1/work1q2.m)
-Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman8-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman7-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman8-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman7-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman8-italic]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman7-italic]:mapping=tex-text;!
+File: day1/q2.eps Graphic file (type eps)
+<day1/q2.eps>
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
-[3
+ [3
 
 
-] (day1/work1q3.m) (day1/work1q4.m
+]
+Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman8-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman8-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman8-italic]:mapping=tex-text;!
+Missing character: There is no   in font [lmroman7-italic]:mapping=tex-text;!
+(day1/work1q3.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [4]))
+ [4]) (day1/work1q4.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [5]
+ [5]))
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [6]
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [7]
 \openout2 = `day2.aux'.
 
  (day2.tex (day2/Vslove.m)
 (day2/lagrangeslove.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [6
+ [8
 
 
 
-]) (day2/mainvslove.m) (day2/mainlagrange.m)
+]) (day2/mainvslove.m) (day2/mainlagrange.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [7]
+ [9])
 File: day2/fig1.eps Graphic file (type eps)
 <day2/fig1.eps>
 File: day2/fig2.eps Graphic file (type eps)
@@ -1015,72 +1024,85 @@ File: day2/fig2.eps Graphic file (type eps)
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
 
-[8]
+[10]
 \openout2 = `day3.aux'.
 
  (day3.tex (day3/newtonmatrix.m)
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 4.
- (day3/main.m)
-File: day3/newton.eps Graphic file (type eps)
-<day3/newton.eps>
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
- [9
-
-
-
-])
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
- [10]
-\openout2 = `day4.aux'.
-
- (day4.tex
-(day4/hermite33.m) (day4/main33.m
+ (day3/work3.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
  [11
 
 
 
-]) (day4/hermite23.m) (day4/main23.m
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
-
-[12]))
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
- [13]
-\openout2 = `day5.aux'.
-
- (day5.tex (day5/bernstein_n.m) (day5/work6.m)
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
- [14
-
-
-
-]
-File: day5/fig.eps Graphic file (type eps)
-<day5/fig.eps>
+])
+File: day3/newton.eps Graphic file (type eps)
+<day3/newton.eps>
 )
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [15]
-\openout2 = `day6.aux'.
+ [12]
+\openout2 = `day4.aux'.
 
- (day6.tex
-(day6/Schmidt1.m)
+ (day4.tex
+(day4/work4h33.m
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [13
+
+
+
+]) (day4/work4h23.m)
+File: day4/h33.eps Graphic file (type eps)
+<day4/h33.eps>
+File: day4/h23.eps Graphic file (type eps)
+<day4/h23.eps>
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [14])
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [15]
+\openout2 = `day5.aux'.
+
+ (day5.tex
+(day5/bernstein_n.m) (day5/work6.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
  [16
 
 
 
-] (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+])
+Overfull \hbox (8.50696pt too wide) detected at line 34
+[]
+ []
+
+File: day5/fig.eps Graphic file (type eps)
+<day5/fig.eps>
+)
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [17]
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [18]
+\openout2 = `day6.aux'.
+
+ (day6.tex (day6/Schmidt1.m)
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [19
+
+
+
+]
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
-) (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
@@ -1095,39 +1117,54 @@ File: day6/fig1.png Graphic file (type bmp)
  (day6/schmidtchebyshev.wl
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [17])
+ [20])
 File: day6/fig2.png Graphic file (type bmp)
 <day6/fig2.png>
  (day6/legendremap.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
 
-[18]))
+[21]))
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [19]
+ [22]
 \openout2 = `day7.aux'.
 
  (day7.tex (day7/work8q1.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [20
+ [23
 
 
 
 ])
+Overfull \hbox (32.43414pt too wide) detected at line 12
+[]
+ []
+
+
+Overfull \hbox (36.77469pt too wide) detected at line 18
+[]
+ []
+
+
+Overfull \hbox (60.119pt too wide) detected at line 23
+[]
+ []
+
 File: day7/q1fig1.eps Graphic file (type eps)
 <day7/q1fig1.eps>
 File: day7/q1fig2.eps Graphic file (type eps)
 <day7/q1fig2.eps>
- (day7/work8q2.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [21])
-(day7/work8q2s2.m
+[24] (day7/work8q2.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [22])
+ [25]) (day7/work8q2s2.m
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [26])
 File: day7/q2fig1.eps Graphic file (type eps)
 <day7/q2fig1.eps>
 File: day7/q2fig2.eps Graphic file (type eps)
@@ -1135,30 +1172,40 @@ File: day7/q2fig2.eps Graphic file (type eps)
 )
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [23]
+ [27]
 \openout2 = `w9.aux'.
 
- (w9.tex (w9/legendremap.m) (w9/work9q1.m
+ (w9.tex
+(w9/legendremap.m) (w9/work9q1.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [24
+ [28
 
 
 
 ])
+Overfull \hbox (9.09499pt too wide) detected at line 23
+[]
+ []
+
 File: w9/figq1.eps Graphic file (type eps)
 <w9/figq1.eps>
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+[29] (w9/work9q2.m
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [30]
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [31])
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [32]
+Overfull \hbox (33.39825pt too wide) detected at line 54
+[]
+ []
 
-(w9/work9q2.m
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
- [25]
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
- [26]
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
- [27])
 File: w9/figq21.eps Graphic file (type eps)
 <w9/figq21.eps>
 File: w9/figq22.eps Graphic file (type eps)
@@ -1170,114 +1217,126 @@ File: w9/figq2c2.eps Graphic file (type eps)
 )
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [28]
+ [33]
 \openout2 = `w10.aux'.
 
- (w10.tex (w10/q1.m) (w10/q2.m
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
- [29
-
-
-
-]
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
- [30]
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
-
-[31])
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf, page 1>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf, page 1>
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
- [32]
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf, page 1>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf, page 1>
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf, page 1>
- [33])
-\openout2 = `w11.aux'.
-
- (w11.tex (w11/NewtonCotesIntegration.m)
+ (w10.tex (w10/q1.m)
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
  [34
 
 
 
+] (w10/q2.m
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [35]
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [36])
+File: w10/q21.eps Graphic file (type eps)
+<w10/q21.eps>
+File: w10/q22.eps Graphic file (type eps)
+<w10/q22.eps>
+File: w10/fig.pdf Graphic file (type pdf)
+<use w10/fig.pdf>
+File: w10/fig.pdf Graphic file (type pdf)
+<use w10/fig.pdf>
+File: w10/fig.pdf Graphic file (type pdf)
+<use w10/fig.pdf, page 1>
+File: w10/fig.pdf Graphic file (type pdf)
+<use w10/fig.pdf, page 1>
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [37]
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [38]
+File: w10/fig.pdf Graphic file (type pdf)
+<use w10/fig.pdf, page 1>
+File: w10/fig.pdf Graphic file (type pdf)
+<use w10/fig.pdf, page 1>
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+File: w10/fig.pdf Graphic file (type pdf)
+<use w10/fig.pdf, page 1>
+ [39])
+\openout2 = `w11.aux'.
+
+ (w11.tex
+(w11/NewtonCotesIntegration.m)
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [40
+
+
+
 ] (w11/q2.m)
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
-
-[35]
+ [41]
 File: w11/fig.png Graphic file (type bmp)
 <w11/fig.png>
  (w11/q3.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [36])
+ [42])
 File: w11/fig.eps Graphic file (type eps)
 <w11/fig.eps>
 )
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [37]
+ [43]
 \openout2 = `w12.aux'.
 
- (w12.tex (w12/q1.m
+
+(w12.tex (w12/q1.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [38
+ [44
 
 
 
-]) (w12/q2.m) (w12/q3.m
+]) (w12/q2.m)
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
-
-[39]))
+ [45] (w12/q3.m))
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [40]
+ [46]
 \openout2 = `w13.aux'.
 
  (w13.tex
-Overfull \hbox (41.96994pt too wide) in paragraph at lines 4--7
-[][] \TU/lmr/bx/n/10.95 Q 12.1.1. []\TU/SimSun(0)/m/it/10.95 实 现 \TU/lmr/m/it/1
-0.95 n \TU/SimSun(0)/m/it/10.95 阶 非 奇 异 矩 阵 \TU/lmr/m/it/10.95 A \TU/SimSun(0)/
-m/it/10.95 的 \TU/lmr/m/it/10.95 LU \TU/SimSun(0)/m/it/10.95 分 解 程 序\TU/lmr/m/it
-/10.95 , \TU/SimSun(0)/m/it/10.95 函 数 格 式 为\TU/lmr/m/it/10.95 : $\OT1/cmr/m/n/1
-0.95 [\OML/cmm/m/it/10.95 L; U\OT1/cmr/m/n/10.95 ] = \OML/cmm/m/it/10.95 lu[]de
-composition\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 A\OT1/cmr/m/n/10.95 )$
+Overfull \hbox (43.46053pt too wide) in paragraph at lines 4--7
+[][] \TU/SimSun(0)/b/n/10.95 题 \TU/lmr/bx/n/10.95 12.1.1. []\TU/SimSun(0)/m/it/
+10.95 实 现 \TU/lmr/m/it/10.95 n \TU/SimSun(0)/m/it/10.95 阶 非 奇 异 矩 阵 \TU/lmr/m/i
+t/10.95 A \TU/SimSun(0)/m/it/10.95 的 \TU/lmr/m/it/10.95 LU \TU/SimSun(0)/m/it/1
+0.95 分 解 程 序\TU/lmr/m/it/10.95 , \TU/SimSun(0)/m/it/10.95 函 数 格 式 为\TU/lmr/m/it
+/10.95 : $\OT1/cmr/m/n/10.95 [\OML/cmm/m/it/10.95 L; U\OT1/cmr/m/n/10.95 ] = \O
+ML/cmm/m/it/10.95 lu[]decomposition\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 A\OT
+1/cmr/m/n/10.95 )$
  []
 
 (w13/lu_decomposition.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [41
+ [47
 
 
 
 ]) (w13/q1.m) (w13/cholesky_Factorization.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [42])
-(w13/q2.m))
+ [48])
+(w13/q2.m)
+Overfull \hbox (1.43422pt too wide) detected at line 55
+[]
+ []
+
+)
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [43]
+ [49]
 File: pageset/lastpage.pdf Graphic file (type pdf)
 <use pageset/lastpage.pdf>
 File: pageset/lastpage.pdf Graphic file (type pdf)
@@ -1292,26 +1351,25 @@ File: pageset/lastpage.pdf Graphic file (type pdf)
 <use pageset/lastpage.pdf, page 1>
 File: pageset/lastpage.pdf Graphic file (type pdf)
 <use pageset/lastpage.pdf, page 1>
- [44
+ [50
 
 
-] (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux)
-(day5.aux) (day6.aux) (day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux)
-(w13.aux))
+] (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux)
+(day6.aux) (day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux) (w13.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `work.out' has not changed.
-(rerunfilecheck)             Checksum: 695B438942E1C1818EA7D58FC1397FA3;6066.
+(rerunfilecheck)             Checksum: 3D0F6BC43E6995C578E9FF7DD778CE66;5666.
  ) 
 Here is how much of TeX's memory you used:
- 29760 strings out of 409717
- 590298 string characters out of 5780201
- 2577598 words of memory out of 5000000
- 51216 multiletter control sequences out of 15000+600000
- 568028 words of font info for 108 fonts, out of 8000000 for 9000
+ 29838 strings out of 409717
+ 592282 string characters out of 5780201
+ 2576870 words of memory out of 5000000
+ 51281 multiletter control sequences out of 15000+600000
+ 571741 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,17n,97p,1205b,8647s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,19n,97p,1205b,8643s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on work.pdf (44 pages).
+Output written on work.pdf (50 pages).
