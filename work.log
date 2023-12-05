@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.17)  29 NOV 2023 22:54
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.17)  5 DEC 2023 19:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1238,72 +1238,55 @@ File: w10/q21.eps Graphic file (type eps)
 <w10/q21.eps>
 File: w10/q22.eps Graphic file (type eps)
 <w10/q22.eps>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf, page 1>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf, page 1>
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [37]
+ [37])
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
  [38]
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf, page 1>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf, page 1>
-File: pageset/coverpage.pdf Graphic file (type pdf)
-<use pageset/coverpage.pdf>
-File: w10/fig.pdf Graphic file (type pdf)
-<use w10/fig.pdf, page 1>
- [39])
 \openout2 = `w11.aux'.
 
  (w11.tex
 (w11/NewtonCotesIntegration.m)
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [40
+ [39
 
 
 
 ] (w11/q2.m)
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [41]
+ [40]
 File: w11/fig.png Graphic file (type bmp)
 <w11/fig.png>
  (w11/q3.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [42])
+ [41])
 File: w11/fig.eps Graphic file (type eps)
 <w11/fig.eps>
 )
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [43]
+ [42]
 \openout2 = `w12.aux'.
 
 
 (w12.tex (w12/q1.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [44
+ [43
 
 
 
 ]) (w12/q2.m)
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [45] (w12/q3.m))
+ [44] (w12/q3.m))
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [46]
+ [45]
 \openout2 = `w13.aux'.
 
  (w13.tex
@@ -1320,14 +1303,14 @@ ML/cmm/m/it/10.95 lu[]decomposition\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 A\OT
 (w13/lu_decomposition.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [47
+ [46
 
 
 
 ]) (w13/q1.m) (w13/cholesky_Factorization.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [48])
+ [47])
 (w13/q2.m)
 Overfull \hbox (1.43422pt too wide) detected at line 55
 []
@@ -1336,7 +1319,7 @@ Overfull \hbox (1.43422pt too wide) detected at line 55
 )
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
- [49]
+ [48]
 File: pageset/lastpage.pdf Graphic file (type pdf)
 <use pageset/lastpage.pdf>
 File: pageset/lastpage.pdf Graphic file (type pdf)
@@ -1351,7 +1334,7 @@ File: pageset/lastpage.pdf Graphic file (type pdf)
 <use pageset/lastpage.pdf, page 1>
 File: pageset/lastpage.pdf Graphic file (type pdf)
 <use pageset/lastpage.pdf, page 1>
- [50
+ [49
 
 
 ] (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux)
@@ -1364,12 +1347,12 @@ Package rerunfilecheck Info: File `work.out' has not changed.
 (rerunfilecheck)             Checksum: 3D0F6BC43E6995C578E9FF7DD778CE66;5666.
  ) 
 Here is how much of TeX's memory you used:
- 29838 strings out of 409717
- 592282 string characters out of 5780201
+ 29827 strings out of 409717
+ 592062 string characters out of 5780201
  2576870 words of memory out of 5000000
- 51281 multiletter control sequences out of 15000+600000
+ 51271 multiletter control sequences out of 15000+600000
  571741 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,19n,97p,1205b,8643s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on work.pdf (50 pages).
+Output written on work.pdf (49 pages).
