@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.17)  5 DEC 2023 19:10
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.8)  12 DEC 2023 12:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -755,7 +755,7 @@ Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
 \l__xeCJK_listings_flag_int=\count361
 )
 (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux)
-(day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux) (w13.aux))
+(day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux) (w13.aux) (w15.aux))
 \openout1 = `work.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -835,8 +835,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 64.
 Package hyperref Info: Link coloring OFF on input line 64.
- (work.out)
-(work.out)
+
+(work.out) (work.out)
 \@outlinefile=\write3
 \openout3 = `work.out'.
 
@@ -1320,39 +1320,56 @@ Overfull \hbox (1.43422pt too wide) detected at line 55
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
  [48]
-File: pageset/lastpage.pdf Graphic file (type pdf)
-<use pageset/lastpage.pdf>
-File: pageset/lastpage.pdf Graphic file (type pdf)
-<use pageset/lastpage.pdf>
-File: pageset/lastpage.pdf Graphic file (type pdf)
-<use pageset/lastpage.pdf, page 1>
-File: pageset/lastpage.pdf Graphic file (type pdf)
-<use pageset/lastpage.pdf, page 1>
-File: pageset/lastpage.pdf Graphic file (type pdf)
-<use pageset/lastpage.pdf, page 1>
-File: pageset/lastpage.pdf Graphic file (type pdf)
-<use pageset/lastpage.pdf, page 1>
-File: pageset/lastpage.pdf Graphic file (type pdf)
-<use pageset/lastpage.pdf, page 1>
+\openout2 = `w15.aux'.
+
+ (w15.tex (w15/q1.m)
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
  [49
 
 
-] (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux)
-(day6.aux) (day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux) (w13.aux))
+
+] (w15/q2.m)
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [50])
+File: pageset/coverpage.pdf Graphic file (type pdf)
+<use pageset/coverpage.pdf>
+ [51]
+File: pageset/lastpage.pdf Graphic file (type pdf)
+<use pageset/lastpage.pdf>
+File: pageset/lastpage.pdf Graphic file (type pdf)
+<use pageset/lastpage.pdf>
+File: pageset/lastpage.pdf Graphic file (type pdf)
+<use pageset/lastpage.pdf, page 1>
+File: pageset/lastpage.pdf Graphic file (type pdf)
+<use pageset/lastpage.pdf, page 1>
+File: pageset/lastpage.pdf Graphic file (type pdf)
+<use pageset/lastpage.pdf, page 1>
+File: pageset/lastpage.pdf Graphic file (type pdf)
+<use pageset/lastpage.pdf, page 1>
+File: pageset/lastpage.pdf Graphic file (type pdf)
+<use pageset/lastpage.pdf, page 1>
+ [52
+
+
+] (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux) (
+day7.aux) (w9.aux)
+(w10.aux) (w11.aux) (w12.aux) (w13.aux) (w15.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `work.out' has not changed.
-(rerunfilecheck)             Checksum: 3D0F6BC43E6995C578E9FF7DD778CE66;5666.
+(rerunfilecheck)             Checksum: E7D4C3790DC34F97FE8A782644472928;5999.
  ) 
 Here is how much of TeX's memory you used:
- 29827 strings out of 409717
- 592062 string characters out of 5780201
- 2576870 words of memory out of 5000000
- 51271 multiletter control sequences out of 15000+600000
+ 29870 strings out of 409717
+ 592770 string characters out of 5780202
+ 2577627 words of memory out of 5000000
+ 51302 multiletter control sequences out of 15000+600000
  571741 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,19n,97p,1205b,8643s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on work.pdf (49 pages).
+Output written on work.pdf (52 pages).
