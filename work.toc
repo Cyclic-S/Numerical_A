@@ -44,3 +44,7 @@
 \contentsline {section}{\numberline {13}第十五周数值分析实验}{47}{section.13}%
 \contentsline {subsection}{\numberline {13.1}迭代法}{47}{subsection.13.1}%
 \contentsline {subsection}{\numberline {13.2}高斯塞德尔迭代法}{48}{subsection.13.2}%
+\contentsline {section}{\numberline {14}第十六周数值分析实验}{49}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Jacobi和G-S迭代法}{49}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}SOR迭代法}{50}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}选做题}{51}{subsection.14.3}%
