@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.17)  24 DEC 2023 12:24
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.17)  24 DEC 2023 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -495,6 +495,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4064.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4064.
 Package hyperref Info: Hyper figures OFF on input line 4181.
 Package hyperref Info: Link nesting OFF on input line 4186.
 Package hyperref Info: Hyper index ON on input line 4189.
@@ -525,7 +526,7 @@ Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
 Package hyperref Info: backreferencing OFF on input line 6080.
-Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring ON on input line 6083.
 Package hyperref Info: Link coloring with OCG OFF on input line 6090.
 Package hyperref Info: PDF/A mode OFF on input line 6095.
 
@@ -648,19 +649,6 @@ File: ppxetex.def 2022/12/19 v0.5x Pdfpages driver for XeTeX (AM)
 \c@AM@survey=\count337
 \AM@templatesizebox=\box106
 )
-(C:\Users\INTma\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-
-\f@nch@headwidth=\skip74
-\f@nch@O@elh=\skip75
-\f@nch@O@erh=\skip76
-\f@nch@O@olh=\skip77
-\f@nch@O@orh=\skip78
-\f@nch@O@elf=\skip79
-\f@nch@O@erf=\skip80
-\f@nch@O@olf=\skip81
-\f@nch@O@orf=\skip82
-)
 (C:\Users\INTma\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count338
@@ -693,54 +681,79 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 )
 \c@KVtest=\count341
-\sf@farskip=\skip83
+\sf@farskip=\skip74
 \sf@captopadj=\dimen283
-\sf@capskip=\skip84
-\sf@nearskip=\skip85
+\sf@capskip=\skip75
+\sf@nearskip=\skip76
 \c@subfigure=\count342
 \c@subfigure@save=\count343
 \c@lofdepth=\count344
 \c@subtable=\count345
 \c@subtable@save=\count346
 \c@lotdepth=\count347
-\sf@top=\skip86
-\sf@bottom=\skip87
+\sf@top=\skip77
+\sf@bottom=\skip78
 )
 (C:\Users\INTma\AppData\Roaming\MiKTeX\tex/latex/wallpaper\wallpaper.sty
 Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
-\wpXoffset=\skip88
-\wpYoffset=\skip89
-\tileXoffset=\skip90
-\tileYoffset=\skip91
-\tilewidth=\skip92
-\tileheight=\skip93
-\tileX=\skip94
-\tileY=\skip95
+\wpXoffset=\skip79
+\wpYoffset=\skip80
+\tileXoffset=\skip81
+\tileYoffset=\skip82
+\tilewidth=\skip83
+\tileheight=\skip84
+\tileX=\skip85
+\tileY=\skip86
 )
-\c@theorem=\count348
-\c@lemma=\count349
-\c@definition=\count350
-\c@code=\count351
-\c@ex=\count352
+(C:\Users\INTma\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\INTma\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\INTma\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpagemodern.sty
+Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count348
+)
+
+)) (C:\Users\INTma\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip87
+\f@nch@O@elh=\skip88
+\f@nch@O@erh=\skip89
+\f@nch@O@olh=\skip90
+\f@nch@O@orh=\skip91
+\f@nch@O@elf=\skip92
+\f@nch@O@erf=\skip93
+\f@nch@O@olf=\skip94
+\f@nch@O@orf=\skip95
+)
+\c@theorem=\count349
+\c@lemma=\count350
+\c@definition=\count351
+\c@code=\count352
+\c@ex=\count353
 
 (C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count353
+\lst@mode=\count354
 \lst@gtempboxa=\box109
 \lst@token=\toks36
-\lst@length=\count354
+\lst@length=\count355
 \lst@currlwidth=\dimen284
-\lst@column=\count355
-\lst@pos=\count356
+\lst@column=\count356
+\lst@pos=\count357
 \lst@lostspace=\dimen285
 \lst@width=\dimen286
-\lst@newlines=\count357
-\lst@lineno=\count358
+\lst@newlines=\count358
+\lst@lineno=\count359
 \lst@maxwidth=\dimen287
 
 (C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count359
-\lst@skipnumbers=\count360
+\c@lstnumber=\count360
+\lst@skipnumbers=\count361
 \lst@framebox=\box110
 )
 (C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
@@ -750,91 +763,91 @@ Package: listings 2023/02/27 1.9 (Carsten Heinz)
 
 (C:\Users\INTma\AppData\Roaming\MiKTeX\tex/xelatex/xecjk\xeCJK-listings.sty
 Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
-\l__xeCJK_listings_max_char_int=\count361
-\l__xeCJK_listings_flag_int=\count362
+\l__xeCJK_listings_max_char_int=\count362
+\l__xeCJK_listings_flag_int=\count363
 )
 (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux)
 (day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux) (w13.aux) (w15.aux) (w16.aux)
 (ref.aux))
 \openout1 = `work.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 65.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 65.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 65.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 65.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 65.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 65.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 65.
-LaTeX Font Info:    Redeclaring math accent \check on input line 65.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 65.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 65.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 65.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 70.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 70.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 70.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 70.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 70.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 70.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 70.
+LaTeX Font Info:    Redeclaring math accent \check on input line 70.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 70.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 70.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 70.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 65.
+(Font)              `operators' in the math version `normal' on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 65.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 70.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 65.
+(Font)              `operators' in the math version `bold' on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 65.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 65.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 65.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 65.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 65.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 65.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 65.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 65.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 65.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 65.
-Package hyperref Info: Link coloring OFF on input line 65.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 70.
+Package hyperref Info: Link coloring ON on input line 70.
  (work.out) (work.out)
 \@outlinefile=\write3
 \openout3 = `work.out'.
@@ -891,7 +904,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count363
+\c@lstlisting=\count364
 File: pageset/xynumath.pdf Graphic file (type pdf)
 <use pageset/xynumath.pdf>
 File: pageset/xynumath.pdf Graphic file (type pdf)
@@ -948,12 +961,6 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
- [][] [][]\TU/lmr/m/n/10.95 Schmidt \TU/SimSun(0)/m/n/10.95 正 交 化\TU/lmr/m/n/10
-.95 -Legendre 
- []
-
 )
 \tf@toc=\write4
 \openout4 = `work.toc'.
@@ -961,13 +968,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--21
  [2]
 \openout2 = `day1.aux'.
 
- (day1.tex (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+ (day1.tex
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 6.
-
-(day1/work1q1.m) (day1/work1q2.m)
+ (day1/work1q1.m)
+(day1/work1q2.m)
 File: day1/q2.eps Graphic file (type eps)
 <day1/q2.eps>
 
@@ -1256,14 +1264,14 @@ File: pageset/coverpage.pdf Graphic file (type pdf)
 \openout2 = `w11.aux'.
 
  (w11.tex
-(w11/NewtonCotesIntegration.m)
+(w11/NewtonCotesIntegration.m) (w11/q2.m
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
  [32
 
 
 
-] (w11/q2.m)
+])
 File: pageset/coverpage.pdf Graphic file (type pdf)
 <use pageset/coverpage.pdf>
  [33]
@@ -1378,23 +1386,25 @@ File: pageset/coverpage.pdf Graphic file (type pdf)
 
 
 
-] (work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux)
-(day5.aux) (day6.aux) (day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux)
-(w13.aux) (w15.aux) (w16.aux) (ref.aux))
+] 
+enddocument/afterlastpage: lastpage setting LastPage.
+(work.aux (day1.aux) (day2.aux) (day3.aux) (day4.aux) (day5.aux) (day6.aux)
+(day7.aux) (w9.aux) (w10.aux) (w11.aux) (w12.aux) (w13.aux) (w15.aux) (w16.aux)
+(ref.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `work.out' has not changed.
-(rerunfilecheck)             Checksum: D1A5B880A28BD86AE9EC2FBC3974AE27;6527.
+(rerunfilecheck)             Checksum: 946697A4B87BABC844164F635314940A;6457.
  ) 
 Here is how much of TeX's memory you used:
- 29940 strings out of 409621
- 593974 string characters out of 5778333
- 2599362 words of memory out of 5000000
- 51447 multiletter control sequences out of 15000+600000
- 571749 words of font info for 125 fonts, out of 8000000 for 9000
+ 30025 strings out of 409621
+ 596112 string characters out of 5778333
+ 2603138 words of memory out of 5000000
+ 51522 multiletter control sequences out of 15000+600000
+ 571757 words of font info for 126 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,19n,97p,1205b,8643s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,19n,97p,1187b,8643s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on work.pdf (49 pages).

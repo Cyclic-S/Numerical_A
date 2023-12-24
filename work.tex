@@ -6,16 +6,21 @@
 \usepackage{titlesec}
 \usepackage{amsmath,amsthm,amssymb}
 \usepackage{amsmath}  
-\usepackage{hyperref}
+\usepackage[colorlinks,linkcolor=black,anchorcolor=black,citecolor=black]{hyperref}
 \usepackage{geometry}
 \usepackage{graphicx}
 \usepackage{appendix}
 \usepackage{pdfpages}
-\usepackage{fancyhdr}%页眉页脚设置
-%\usepackage[stable]{footmisc}
 \usepackage{float}%设置图片浮动位置的宏包
 \usepackage{subfig}%插入多图时用子图显示的宏包
 \usepackage{wallpaper}%页面背景
+\usepackage{lastpage}
+\usepackage{fancyhdr}%页码格式
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot{}
+\fancyfoot[R]{\fontsize{12pt}{18pt}共 \pageref{LastPage} 页\quad 第 \thepage 页}
+\renewcommand{\footrulewidth}{0pt}
 \title{数值分析作业}
 \author{CY.SP}
 \date{\today}
@@ -61,7 +66,7 @@
 	stringstyle=\color{mauve},
 	tabsize=3,
 }
-\pagestyle{plain}
+\pagestyle{fancy}
 \begin{document}
 	%\includepdf{pageset/firstpage.pdf}
 	%\includepdf{pageset/first.pdf}
