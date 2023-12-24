@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.17)  24 DEC 2023 12:09
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.17)  24 DEC 2023 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1386,7 +1386,7 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `work.out' has not changed.
-(rerunfilecheck)             Checksum: 26B012A437FDF178DA693C20DFC04BEA;6594.
+(rerunfilecheck)             Checksum: D1A5B880A28BD86AE9EC2FBC3974AE27;6527.
  ) 
 Here is how much of TeX's memory you used:
  29940 strings out of 409621
