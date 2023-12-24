@@ -1,5 +1,4 @@
-clc
-clear
+clc;clear;
 syms x
 f=cos(2*pi*x);
 N=[3 5 7 9 10];

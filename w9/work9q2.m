@@ -1,6 +1,5 @@
 %% base {1,x,x^2}
-clc
-clear
+clc;clear;
 G=zeros(3,3);
 syms x
 B=[1 x x^2];
@@ -36,15 +35,13 @@ y=0;
 for i=1:length(A)
     y=y+A(i)*x^(i-1);
 end
-y=collect(y,x);
-latex(y)
+y=collect(y,x);latex(y)
 fplot(y,[min(X) max(X)]);
 hold on
 plot(X,Y,'ro');
 legend({'二次拟合多项式曲线','实验数据'});
 %% base {1,x,x^2,x^3}
-clc
-clear
+clc;clear;
 G=zeros(4,4);
 syms x
 B=[1 x x^2 x^3];
@@ -80,8 +77,7 @@ y=0;
 for i=1:length(A)
     y=y+A(i)*x^(i-1);
 end
-y=collect(y,x);
-latex(y)
+y=collect(y,x);latex(y)
 fplot(y,[min(X) max(X)]);
 hold on
 plot(X,Y,'ro');

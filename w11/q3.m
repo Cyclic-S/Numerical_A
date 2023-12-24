@@ -12,9 +12,9 @@ Y=1:7;
 for i=1:7
     Y(i)=S-a*NewtonCotesIntegration(f,xmin,xmax,X(i));
 end
-plot(X,Y,'r-o');
-legend("Mathematica计算结果减NC公式计算结果");
-xlabel("牛顿科特斯公式划分数目");
+plot(X,Y,'r-o');grid on;
+legend('Mathematica计算结果减NC公式计算结果');
+xlabel('牛顿科特斯公式划分数目');
 %% 结果
 %由上则n=2时(Simpson)计算结果与Mathematica结果更接近
 I=a*NewtonCotesIntegration(f,xmin,xmax,2);

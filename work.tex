@@ -1,5 +1,6 @@
 \documentclass[11pt,a4paper]{ctexart}
 \usepackage[toc]{multitoc}%目录两栏
+\usepackage{multicol}
 \usepackage{mathrsfs}
 \usepackage{color}
 \usepackage{titlesec}
@@ -15,7 +16,7 @@
 \usepackage{float}%设置图片浮动位置的宏包
 \usepackage{subfig}%插入多图时用子图显示的宏包
 \usepackage{wallpaper}%页面背景
-\title{数值分析作业\thanks{\href{https://github.com/Cyclic-S/Numerical_A}{Github仓库}}}
+\title{数值分析作业}
 \author{CY.SP}
 \date{\today}
 \geometry{left=3.17cm,right=3.17cm,top=2.54cm,bottom=2.54cm}
@@ -63,7 +64,8 @@
 \pagestyle{plain}
 \begin{document}
 	%\includepdf{pageset/firstpage.pdf}
-	\includepdf{pageset/first.pdf}
+	%\includepdf{pageset/first.pdf}
+	\includepdf{pageset/xynumath.pdf}
 	\newpage
 	%\maketitle
 	\tableofcontents
@@ -84,6 +86,7 @@
 	\include{w13}
 	\include{w15}
 	\include{w16}
+	\include{ref}
 	\ClearWallPaper
 	%\includepdf[]{pageset/lastpage.pdf}
 \end{document}
