@@ -16,11 +16,6 @@
 \usepackage{wallpaper}%页面背景
 \usepackage{lastpage}
 \usepackage{fancyhdr}%页码格式
-\fancyhead{}
-\renewcommand{\headrulewidth}{0pt}
-\fancyfoot{}
-\fancyfoot[R]{\fontsize{12pt}{18pt}共 \pageref{LastPage} 页\quad 第 \thepage 页}
-\renewcommand{\footrulewidth}{0pt}
 \title{数值分析作业}
 \author{CY.SP}
 \date{\today}
@@ -66,17 +61,13 @@
 	stringstyle=\color{mauve},
 	tabsize=3,
 }
-\pagestyle{fancy}
+%\pagestyle{fancy}
 \begin{document}
-	%\includepdf{pageset/firstpage.pdf}
-	%\includepdf{pageset/first.pdf}
-	\includepdf{pageset/xynumath.pdf}
 	\newpage
-	%\maketitle
+	\maketitle
 	\tableofcontents
 	\everymath{\displaystyle}
 	\clearpage
-	\ULCornerWallPaper{1}{pageset/coverpage.pdf}
 	\include{day1}
 	\include{day2}
 	\include{day3}
